@@ -10,7 +10,7 @@ I build agentic AI systems, backend services and cloud applications at [RNDM](ht
 | --- | --- | --- |
 | [Jenius](https://github.com/vijayengineer/jenius) · [Live app](https://jns.fun) | An AI learning application with deterministic progression, backend APIs and persistent learner state. | React, TypeScript, Node.js, Fastify, Firestore, GCP |
 | [Pi Web Auditor](https://github.com/vijayengineer/pi-web-auditor) | A website smoke-audit tool producing browser evidence, deterministic quality scores and Markdown/JSON reports. | TypeScript, Playwright |
-| [Ghost](https://youtu.be/sQaGR0kd9n4) |  | Ghost — One Mind. Many Bodies. Can small, biologically inspired models help robots learn skills? | Python, Typescript, IsaacSim, Model build |
+| [Ghost](https://youtu.be/sQaGR0kd9n4) | Ghost — One Mind. Many Bodies. Can small, biologically inspired models help robots learn skills? | Python, Typescript, IsaacSim, Model build |
 
 
 ## Financial research
