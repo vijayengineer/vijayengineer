@@ -19,6 +19,6 @@ is NP-hard, and tests on recorded Polymarket and Hyperliquid trades.
 | Project | What I built | Technologies |
 | --- | --- | --- |
 | [DIME](https://dime.rndm.io)  [Agent kit](https://github.com/RNDM-IO/Dime-Agents) | Leveraged trading on Bitcoin, Nvidia and Anthropic, launched on Robinhood Chain; SDK, MCP server and terminal so AI agents trade it under contract-enforced limits. | Solidity, TypeScript, MCP |
-| [Jenius](https://github.com/vijayengineer/jenius) · [Live app](https://jns.fun) | An AI learning application with deterministic progression, backend APIs and persistent learner state. | React, TypeScript, Fastify, Firestore, GCP |
+| [Jenius](https://github.com/vijayengineer/jenius)  [Live app](https://jns.fun) | An AI learning application with deterministic progression, backend APIs and persistent learner state. | React, TypeScript, Fastify, Firestore, GCP |
 | [Pi Web Auditor](https://github.com/vijayengineer/pi-web-auditor) | A website audit tool producing browser evidence, deterministic quality scores and Markdown/JSON reports. | TypeScript, Playwright |
 | [Ghost](https://youtu.be/sQaGR0kd9n4) | Can small, biologically inspired models help robots learn skills? | Python, TypeScript, Isaac Sim |
